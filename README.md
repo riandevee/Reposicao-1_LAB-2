@@ -27,8 +27,5 @@ gcc -Wall -Wextra ex01.c -o ex01
 ./ex01
 ```
 
-Repita para os demais arquivos, trocando o nome.
-
 ## Autor
-
-Seu Nome
+Rian Ruela Ribeiro - TURMA 2025
